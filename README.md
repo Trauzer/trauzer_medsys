@@ -1,1 +1,3 @@
-# trauzer_medsys
+# trauzer_medsys | WIP
+
+## UNFINISHED / BROKEN
